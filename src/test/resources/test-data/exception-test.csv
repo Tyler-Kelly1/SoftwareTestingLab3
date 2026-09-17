@@ -1,0 +1,4 @@
+﻿nights,guestAge,isArResident,hasVetDiscount,expectedException
+0,30,false,false,NightReservationException
+15,30,false,false,NightReservationException
+7,-1,false,false,GuestAgeReservationException
